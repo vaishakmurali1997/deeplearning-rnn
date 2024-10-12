@@ -4,7 +4,7 @@ This project demonstrates the use of a Recurrent Neural Network (RNN) model to p
 
 ## Key Features:
 - Preprocessing and tokenizing IMDb review data
-- Implemented a Recurrent Neural Network (RNN) with LSTM layers
+- Implemented a Recurrent Neural Network (RNN)
 - Trained the model using TensorFlow and Keras libraries
 - Evaluated the model's performance on test data
 - Achieved high accuracy in sentiment classification
@@ -14,9 +14,6 @@ This project demonstrates the use of a Recurrent Neural Network (RNN) model to p
 - **TensorFlow** / **Keras**
 - **NumPy**
 - **Pandas**
-
-## Dataset:
-- The project uses the IMDb movie reviews dataset which can be accessed [here](https://ai.stanford.edu/~amaas/data/sentiment/).
 
 ## Installation
 
